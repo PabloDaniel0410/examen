@@ -20,7 +20,7 @@ div{
 }
 p.bitcoin{
     position: relative;
-    left: 1950px;
+    left: 1250px;
     top: 350px;
     font-weight: bold;
 }
@@ -34,20 +34,21 @@ div.ethereum{
     
 }
 img.ethereum{
-    float: right;
+    left: 800px;
 position: relative;
-bottom:100px
+bottom:30px
 
 }
 p.ethereum{
     position: relative;
-    left: 1500px;
+    left: 750px;
     font-weight: bold;
+    top: 280px
 }
 p.litecoin{
     position: relative;
     left: 900px;
-    top: 300px;
+    bottom: -200px;
     font-weight: bold;
 }
 img.litecoin{
@@ -59,6 +60,7 @@ bottom: 100px
 div.litecoin{
     position: relative;
     bottom: -500px;
+    right:600px;
 }
 footer{
     position: relative;
@@ -66,7 +68,7 @@ footer{
     background-color: yellow;
     color: black;
 }
-p.red{
+p.rojo{
     color: red;
 }
 h2.valor{
