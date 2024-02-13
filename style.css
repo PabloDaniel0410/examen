@@ -1,6 +1,78 @@
 body{
-   background-color: lightsalmon; 
+
+    background-color: lightsalmon;
 }
-.azul{
+p.azul{
+    color: blue;
+}
+nav{
+    background-color: yellow;
+    color: blue;
+    height: 50px;
+}
+img.bitcoin{
+    float: right;
+    position: relative;
+    right: 100px;
+}
+div{
+    color: blue;
+}
+p.bitcoin{
+    position: relative;
+    left: 1950px;
+    top: 350px;
+    font-weight: bold;
+}
+div.ethereum{
+    background-color: white;
+    color: blue;
+    position: relative;
+    top: 400px;
+    height: 300px;
+    
+    
+}
+img.ethereum{
+    float: right;
+position: relative;
+bottom:100px
+
+}
+p.ethereum{
+    position: relative;
+    left: 1500px;
+    font-weight: bold;
+}
+p.litecoin{
+    position: relative;
+    left: 900px;
+    top: 300px;
+    font-weight: bold;
+}
+img.litecoin{
+
+position: relative;
+left: 1000px;
+bottom: 100px
+}
+div.litecoin{
+    position: relative;
+    bottom: -500px;
+}
+footer{
+    position: relative;
+    bottom: -400px;
+    background-color: yellow;
+    color: black;
+}
+p.red{
+    color: red;
+}
+h2.valor{
+    background-color: yellow;
+    color: green;
+}
+input.azul{
     color: blue;
 }
