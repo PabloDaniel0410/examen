@@ -4,3 +4,7 @@ h1.azul{
 body{
     color: lightsalmon;
 }
+nav{
+    background-color: yellow;
+    color: blue;
+}
